@@ -1,5 +1,5 @@
 ## helloworld——专业开发者平台
-<p style="text-align:center"><img src="https://www.helloworld.net/test/logo.svg" width=250 /></p>
+<p style="text-align:center"><img src="./logo.svg" width=250 /></p>
 
 [🏠 Homepage](https://www.helloworld.net/)
 
